@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_CI")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_CI.kicad_sym")(options "")(descr ""))
+  (lib (name "_Connector")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "_crystal")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_crystal.kicad_sym")(options "")(descr ""))
+  (lib (name "_mcu")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "_Regulador_lineal")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Regulador_lineal.kicad_sym")(options "")(descr ""))
+  (lib (name "_Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Regulator_Linear.kicad_sym")(options "")(descr ""))
+  (lib (name "_RF")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_RF.kicad_sym")(options "")(descr ""))
+  (lib (name "_Switch")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Switch.kicad_sym")(options "")(descr ""))
+  (lib (name "_Transformers")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Transformers.kicad_sym")(options "")(descr ""))
+  (lib (name "_Transistors")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/_Transistors.kicad_sym")(options "")(descr ""))
+)

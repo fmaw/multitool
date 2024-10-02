@@ -1,0 +1,15 @@
+# Backups
+
+*.backups*
+*.back
+*.bck
+*backups
+
+# Locks
+
+*.lck
+*.lck*
+*.locked*
+*lck*
+*locked*
+
