@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "FABRICATION/gerber/",
+      "plot": "FABRICATION/gerber_2layer/",
       "pos_files": "FABRICATION/",
       "specctra_dsn": "",
       "step": "",
