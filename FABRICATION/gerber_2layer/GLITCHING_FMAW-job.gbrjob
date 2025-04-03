@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.8-8.0.8-0~ubuntu22.04.1"
     },
-    "CreationDate": "2025-03-05T22:20:15+01:00"
+    "CreationDate": "2025-03-05T22:54:23+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -44,6 +44,16 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "GLITCHING_FMAW-F_Adhesive.gbr",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "GLITCHING_FMAW-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "GLITCHING_FMAW-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
@@ -76,6 +86,16 @@
     {
       "Path": "GLITCHING_FMAW-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "GLITCHING_FMAW-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "GLITCHING_FMAW-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
